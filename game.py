@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 print(":=) .....Welcome to my game!......")
-=======
-print(".....Welcome to my game!...... :=) ")
->>>>>>> 368dcfaa952ee4a9a64e2c90a507138817257828
 
 print("If you want to learn what the game is, please write 'what' ")
 print("If you already know the game, please write something else")
