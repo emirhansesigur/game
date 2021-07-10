@@ -1,4 +1,4 @@
-print(".....Welcome to my game!......")
+print(":=) .....Welcome to my game!......")
 
 print("If you want to learn what the game is, please write 'what' ")
 print("If you already know the game, please write something else")
