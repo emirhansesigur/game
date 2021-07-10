@@ -1,6 +1,6 @@
 print("(: .....Welcome to my game!...... :)")
 
-print("If you want to learn what the game is, please write 'what': ")
+print("If you want to learn what the game is, please write 'what' ")
 print("If you already know the game, please write something else")
 a = input("").lower()
 if a == "what":
@@ -26,7 +26,7 @@ if answer.lower() == "ankara":
 else:
     print("Incorrect!")
 
-answer = input("2) What is Turkey's most populous city? ")
+answer = input("2) What is Turkey's the most populous city? ")
 
 if answer.lower() == "istanbul":
     print("Correct!")
@@ -65,7 +65,7 @@ else:
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 5) * 100) + "%.")
 
-print("...here is answers...")
+print("...here are the answers...")
 print("1) ankara")
 print("2) istanbul")
 print("3) 81")
